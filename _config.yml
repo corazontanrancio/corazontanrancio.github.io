@@ -9,3 +9,9 @@ github_username:  corazontanrancio
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+paginate: 4
+
+author: Your name
+
+gems: [jekyll-paginate]
