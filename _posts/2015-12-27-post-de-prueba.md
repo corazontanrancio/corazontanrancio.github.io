@@ -6,7 +6,7 @@ image: /images/reverte.png
 tags: geopolítica mesura multiculturalismo genocidio PabloIglesias
 
 ---
-*(Esta columna fue publicada en El País Semanal bajo el título ["Soldados de Riesgo"](http://elpais.com/elpais/2015/12/22/eps/1450795200_059391.html) el 27 de Diciembre de 2015. Lo que sigue es un resumen de la misma con fines didácticos. Es recomendable leer la original antes de leer esta.)*
+*(Esta columna fue publicada en El País Semanal bajo el título ["Soldados sin Riesgo"](http://elpais.com/elpais/2015/12/22/eps/1450795200_059391.html) el 27 de Diciembre de 2015. Lo que sigue es un resumen de la misma con fines didácticos. Es recomendable leer la original antes de leer esta.)*
 
 
 El tema este del DAESH y el terrorismo es realmente complejo y no tengo ni pajolera idea al respecto, la verdad. He intentado leer a expertos en el tema para escribir un refrito pero no me he enterado bien, así que no voy a opinar. 
