@@ -2,6 +2,7 @@
 layout: post
 title:  "Soldados sin riesgo"
 categories: internacional
+image: /images/reverte.png
 tags: geopolítica mesura multiculturalismo genocidio PabloIglesias
 
 ---
