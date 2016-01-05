@@ -10,10 +10,14 @@ github_username:  corazontanrancio
 about: "No todo el mundo tuvo un padre filósofo o estudió en una institución pedagógica revolucionaria. Este blog intenta hacer más accesibles las columnas de opinión del escritor, traductor, editor y, por qué no decirlo, madurito interesante Javier Marías."
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 
 paginate: 4
 
 author: Manuel Jaurías
 
 gems: [jekyll-paginate]
+
+categories: ["Tiempos modernos"]
